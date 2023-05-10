@@ -82,6 +82,7 @@ nav ul li + li {
   color: var(--app-green);
   justify-self: end;
   font-size: 25px;
+  cursor: pointer;
 }
 
 button {
